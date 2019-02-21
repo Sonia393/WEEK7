@@ -23,3 +23,4 @@ var bear = {
 var cities = [
     'toronto', 'mississsuaga', 'brampton', 'etobicoke', 'malton'
 ];
+cities.length
